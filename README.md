@@ -1,4 +1,4 @@
-## This React App can be viewed at [https://expense-tracker-ayu.netlify.app/](https://expense-tracker-ayu.netlify.app/)
+## This React App can be viewed at [https://expense-tracker-ayush.netlify.app/](https://expense-tracker-ayush.netlify.app/)
 
 # Getting Started with Create React App
 
